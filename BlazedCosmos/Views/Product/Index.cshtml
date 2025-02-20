@@ -1,0 +1,16 @@
+﻿@model List<BlazedCosmos.Models.Product>
+
+<h2>Our Products</h2>
+
+<div class="product-grid">
+    @foreach (var product in Model)
+    {
+        <div class="product-card">
+            <img src="@product.ImageUrl" alt="@product.Name" />
+            <h3>@product.Name</h3>
+            <p>@product.Description</p>
+            <p>$@product.Price</p>
+            <a href="@Url.Action("Details", "Product", new { id = product.Id })" class="btn btn-primary">View Details</a>
+        </div>
+    }
+</div>

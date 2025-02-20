@@ -1,0 +1,33 @@
+﻿@model List<BlazedCosmos.Models.Product>
+
+<div class="hero-section">
+    <h1>Welcome to Blazed Cosmos</h1>
+    <p>Explore the universe of custom art prints.</p>
+</div>
+
+<div class="product-grid">
+    @foreach (var product in Model)
+    {
+        <div class="product-card">
+            <img src="@product.ImageUrl" alt="@product.Name" />
+            <h3>@product.Name</h3>
+            <p>@product.Description</p>
+            <p>$@product.Price</p>
+            <button class="btn-add-to-cart" data-product-id="@product.Id">Add to Cart</button>
+        </div>
+    }
+</div>
+
+@section Scripts {
+    <script>
+        // AJAX for adding to cart
+        document.querySelectorAll('.btn-add-to-cart').forEach(button => {
+            button.addEventListener('click', () => {
+                const productId = button.getAttribute('data-product-id');
+                fetch(`/Cart/Add/${productId}`, { method: 'POST' })
+                    .then(response => alert('Added to cart!'))
+                    .catch(error => console.error('Error:', error));
+            });
+        });
+    </script>
+}

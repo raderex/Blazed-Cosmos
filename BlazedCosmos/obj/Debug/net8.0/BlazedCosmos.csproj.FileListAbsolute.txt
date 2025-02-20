@@ -1,0 +1,8 @@
+D:\.net\.net project\.NET\BlazedCosmos\BlazedCosmos\obj\Debug\net8.0\BlazedCosmos.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\.net project\.NET\BlazedCosmos\BlazedCosmos\obj\Debug\net8.0\BlazedCosmos.AssemblyInfoInputs.cache
+D:\.net\.net project\.NET\BlazedCosmos\BlazedCosmos\obj\Debug\net8.0\BlazedCosmos.AssemblyInfo.cs
+D:\.net\.net project\.NET\BlazedCosmos\BlazedCosmos\obj\Debug\net8.0\BlazedCosmos.csproj.CoreCompileInputs.cache
+D:\.net\.net project\.NET\BlazedCosmos\BlazedCosmos\obj\Debug\net8.0\BlazedCosmos.MvcApplicationPartsAssemblyInfo.cache
+D:\.net\.net project\.NET\BlazedCosmos\BlazedCosmos\obj\Debug\net8.0\BlazedCosmos.RazorAssemblyInfo.cache
+D:\.net\.net project\.NET\BlazedCosmos\BlazedCosmos\obj\Debug\net8.0\BlazedCosmos.RazorAssemblyInfo.cs
+D:\.net\.net project\.NET\BlazedCosmos\BlazedCosmos\obj\Debug\net8.0\BlazedCosmos.sourcelink.json

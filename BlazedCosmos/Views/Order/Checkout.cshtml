@@ -1,0 +1,21 @@
+﻿@model BlazedCosmos.Models.Order
+
+<h2>Checkout</h2>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p>@error.ErrorMessage</p>
+        }
+    </div>
+}
+
+<form asp-action="Checkout">
+    <div>
+        <label>Total Amount</label>
+        <input asp-for="TotalAmount" readonly />
+    </div>
+    <button type="submit">Place Order</button>
+</form>
