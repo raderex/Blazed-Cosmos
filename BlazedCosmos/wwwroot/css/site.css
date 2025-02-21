@@ -1,40 +1,153 @@
-/* Futuristic styles */
-.hero-section {
-    background: linear-gradient(135deg, #1e3c72, #2a5298);
-    color: white;
-    padding: 100px 20px;
-    text-align: center;
+/* General Body Styling */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #101010; /* Dark background for a modern feel */
+    color: #e0e0e0; /* Light text color for contrast */
+    margin: 0;
+    padding: 0;
 }
 
+/* Product Grid Layout */
 .product-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 20px;
-    padding: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Adjust columns dynamically */
+    gap: 30px; /* More space between cards for a cleaner look */
+    padding: 40px;
+    justify-items: center; /* Center items in each grid cell */
 }
 
+/* Product Card Styling */
 .product-card {
-    background: #fff;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background: linear-gradient(135deg, #1e3c72, #2a5298); /* Gradient background for a cosmic effect */
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2); /* Deep shadow for a floating effect */
     overflow: hidden;
-    transition: transform 0.3s ease;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, opacity 0.3s ease;
+    width: 100%; /* Full width inside the grid cell */
+    height: auto;
+    padding: 20px;
+    backdrop-filter: blur(5px); /* Slight blur for background */
+    position: relative; /* Position for future effects */
 }
 
     .product-card:hover {
-        transform: translateY(-10px);
+        transform: scale(1.05); /* Slight scale-up effect */
+        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4); /* Stronger shadow on hover */
+        opacity: 0.9; /* Slight transparency for hover effect */
     }
 
+    /* Hover effect: glowing edges on hover */
+    .product-card::before {
+        content: '';
+        position: absolute;
+        top: 5px;
+        left: 5px;
+        right: 5px;
+        bottom: 5px;
+        background: linear-gradient(45deg, #ff6f61, #ff3b2f, #ff6f61, #ff3b2f);
+        border-radius: 10px;
+        z-index: -1;
+        filter: blur(15px);
+        opacity: 0;
+        transition: opacity 0.4s ease-in-out;
+    }
+
+    .product-card:hover::before {
+        opacity: 1;
+    }
+
+    /* Image Styling */
+    .product-card img {
+        width: 100%;
+        height: 300px; /* Taller image for better visibility */
+        object-fit: cover; /* Ensures image doesn't get stretched */
+        border-radius: 10px;
+        transition: transform 0.3s ease-in-out;
+    }
+
+    .product-card:hover img {
+        transform: scale(1.1); /* Zoom effect on hover */
+    }
+
+    /* Title and Text Styling */
+    .product-card h3 {
+        font-size: 1.6rem;
+        font-weight: bold;
+        color: #fff;
+        text-align: center;
+        margin-top: 20px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        transition: color 0.3s ease;
+    }
+
+    .product-card p {
+        margin: 10px 0;
+        color: #d0d0d0;
+        text-align: center;
+        font-size: 1.1rem;
+        transition: color 0.3s ease;
+    }
+
+    .product-card:hover h3, .product-card:hover p {
+        color: #ff6f61; /* Change text color on hover for emphasis */
+    }
+
+    /* Price Styling */
+    .product-card .price {
+        font-size: 1.4rem;
+        font-weight: bold;
+        color: #ff6f61; /* Futuristic orange color for price */
+        text-align: center;
+        margin: 10px 0;
+    }
+
+/* Button Styling */
+.btn {
+    display: inline-block;
+    margin: 10px 0;
+    padding: 15px 30px;
+    background: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    text-align: center;
+    transition: all 0.3s ease;
+    font-size: 1.2rem;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+    .btn:hover {
+        background: #0056b3;
+        transform: translateY(-5px); /* Lift effect */
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2); /* Enhanced shadow */
+    }
+
+/* Add to Cart Button */
 .btn-add-to-cart {
     background: #ff6f61;
     color: white;
     border: none;
-    padding: 10px 20px;
+    padding: 12px 25px;
     cursor: pointer;
-    border-radius: 5px;
-    transition: background 0.3s ease;
+    border-radius: 30px;
+    transition: background 0.3s ease, transform 0.3s ease;
+    font-size: 1.1rem;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
     .btn-add-to-cart:hover {
         background: #ff3b2f;
+        transform: translateY(-5px); /* Hover effect */
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3); /* Stronger shadow on hover */
     }
+
+/* Section Titles */
+h2 {
+    font-size: 3rem;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}

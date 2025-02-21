@@ -82,6 +82,72 @@ namespace BlazedCosmos.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Products");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Description = "A stunning galaxy art print",
+                            ImageUrl = "/images/1.jpg",
+                            Name = "Galaxy Print",
+                            Price = 2000m
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Description = "A vibrant nebula art print",
+                            ImageUrl = "/images/2.jpg",
+                            Name = "Cosmic Nebula",
+                            Price = 3000m
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Description = "A mesmerizing starry night print",
+                            ImageUrl = "/images/3.jpg",
+                            Name = "Starry Night",
+                            Price = 2500m
+                        },
+                        new
+                        {
+                            Id = 4,
+                            Description = "A dramatic solar flare art print",
+                            ImageUrl = "/images/4.jpg",
+                            Name = "Solar Flare",
+                            Price = 2100m
+                        },
+                        new
+                        {
+                            Id = 5,
+                            Description = "A beautiful aurora borealis print",
+                            ImageUrl = "/images/5.jpg",
+                            Name = "Aurora Borealis",
+                            Price = 1000m
+                        },
+                        new
+                        {
+                            Id = 6,
+                            Description = "A breathtaking Milky Way art print",
+                            ImageUrl = "/images/6.jpg",
+                            Name = "Milky Way",
+                            Price = 1500m
+                        },
+                        new
+                        {
+                            Id = 7,
+                            Description = "A unique planetary orbit print",
+                            ImageUrl = "/images/7.jpg",
+                            Name = "Planetary Orbit",
+                            Price = 1800m
+                        },
+                        new
+                        {
+                            Id = 8,
+                            Description = "A mysterious black hole art print",
+                            ImageUrl = "/images/8.jpg",
+                            Name = "Black Hole",
+                            Price = 2000m
+                        });
                 });
 
             modelBuilder.Entity("BlazedCosmos.Models.User", b =>

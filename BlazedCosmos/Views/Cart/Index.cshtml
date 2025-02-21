@@ -1,0 +1,42 @@
+﻿@model List<BlazedCosmos.Models.CartItem>
+
+<h2>Your Cart</h2>
+
+@if (Model.Any())
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Quantity</th>
+                <th>Price</th>
+                <th>Total</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Product.Name</td> <!-- Display the product name -->
+                    <td>@item.Quantity</td>
+                    <td>Rs @item.Product.Price</td> <!-- Display the price per unit -->
+                    <td>Rs @item.Quantity * @item.Product.Price</td> <!-- Total price for item -->
+                    <td>
+                        <form action="@Url.Action("Remove", "Cart")" method="post">
+                            <input type="hidden" name="productId" value="@item.ProductId" />
+                            <button type="submit" class="btn btn-danger">Remove</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h3>Total: Rs @Model.Sum(item => item.Quantity * item.Product.Price)</h3>
+    <a href="@Url.Action("Checkout", "Cart")" class="btn btn-primary">Proceed to Checkout</a>
+}
+else
+{
+    <p>Your cart is empty.</p>
+}

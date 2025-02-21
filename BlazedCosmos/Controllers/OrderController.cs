@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using BlazedCosmos.Services.Interfaces;
 using BlazedCosmos.Models;
-using System;
 
 namespace BlazedCosmos.Controllers
 {
@@ -14,17 +13,19 @@ namespace BlazedCosmos.Controllers
             _orderService = orderService;
         }
 
+        // Display the cart
         public IActionResult Cart()
         {
-            var cart = _orderService.GetCart();
+            var cart = _orderService.GetCart(); // Get the current cart from OrderService
             return View(cart);
         }
 
+        // Add product to cart (via the service)
         [HttpPost]
         public IActionResult AddToCart(int productId)
         {
-            _orderService.AddToCart(productId);
-            return RedirectToAction("Cart");
+            _orderService.AddToCart(productId); // Add to cart through the service
+            return RedirectToAction("Cart"); // Redirect to the cart view
         }
 
         public IActionResult Checkout()
@@ -38,16 +39,8 @@ namespace BlazedCosmos.Controllers
         {
             if (ModelState.IsValid)
             {
-                try
-                {
-                    _orderService.CompleteOrder(order);
-                    return RedirectToAction("ThankYou");
-                }
-                catch (InvalidOperationException ex)
-                {
-                    ModelState.AddModelError("", ex.Message);
-                    return View(order);
-                }
+                _orderService.CompleteOrder(order);
+                return RedirectToAction("ThankYou");
             }
             return View(order);
         }

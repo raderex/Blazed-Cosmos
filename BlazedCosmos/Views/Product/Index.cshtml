@@ -9,7 +9,7 @@
             <img src="@product.ImageUrl" alt="@product.Name" />
             <h3>@product.Name</h3>
             <p>@product.Description</p>
-            <p>$@product.Price</p>
+            <p class="price">Rs @product.Price.ToString("0")</p>
             <a href="@Url.Action("Details", "Product", new { id = product.Id })" class="btn btn-primary">View Details</a>
         </div>
     }

@@ -12,7 +12,7 @@
             <img src="@product.ImageUrl" alt="@product.Name" />
             <h3>@product.Name</h3>
             <p>@product.Description</p>
-            <p>$@product.Price</p>
+            <p class="price">Rs @product.Price.ToString("0")</p> <!-- Format the price to remove decimal places -->
             <button class="btn-add-to-cart" data-product-id="@product.Id">Add to Cart</button>
         </div>
     }

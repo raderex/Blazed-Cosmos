@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Migrations\\20250220073104_Second Try.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazedCosmos\\Migrations\\20250220073104_Second Try.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,20 +23,88 @@
       "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\views\\order\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\blazedcosmos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\blazedcosmos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\helpers\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\helpers\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,32 +115,24 @@
       "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\migrations\\20250220073104_second try.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\migrations\\20250220073104_second try.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\blazedcosmos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\blazedcosmos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -99,58 +147,123 @@
       "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\services\\interfaces\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\services\\interfaces\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\migrations\\20250220073104_second try.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\migrations\\20250220073104_second try.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|d:\\.net\\.net project\\.net\\blazedcosmos\\blazedcosmos\\migrations\\20250221060803_for products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C8C7A0-8724-4947-9EC2-EBDE495618E2}|BlazedCosmos\\BlazedCosmos.csproj|solutionrelative:blazedcosmos\\migrations\\20250221060803_for products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 100,
+      "VerticalTabListWidth": 191,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 33,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlazedCosmos\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "BlazedCosmos\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T07:47:56.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Helpers\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "BlazedCosmos\\Helpers\\SessionExtensions.cs",
+              "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Helpers\\SessionExtensions.cs",
+              "RelativeToolTip": "BlazedCosmos\\Helpers\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:39:19.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "BlazedCosmos\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Controllers\\CartController.cs",
+              "RelativeToolTip": "BlazedCosmos\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAArwGEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:36:45.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20250221060803_For Products.cs",
+              "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Migrations\\20250221060803_For Products.cs",
+              "RelativeDocumentMoniker": "BlazedCosmos\\Migrations\\20250221060803_For Products.cs",
+              "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Migrations\\20250221060803_For Products.cs",
+              "RelativeToolTip": "BlazedCosmos\\Migrations\\20250221060803_For Products.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T06:08:03.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Migrations\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BlazedCosmos\\Migrations\\AppDbContext.cs",
+              "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Migrations\\AppDbContext.cs",
+              "RelativeToolTip": "BlazedCosmos\\Migrations\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T05:49:46.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BlazedCosmos\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BlazedCosmos\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:10:26.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250220073104_Second Try.Designer.cs",
+              "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Migrations\\20250220073104_Second Try.Designer.cs",
+              "RelativeDocumentMoniker": "BlazedCosmos\\Migrations\\20250220073104_Second Try.Designer.cs",
+              "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Migrations\\20250220073104_Second Try.Designer.cs",
+              "RelativeToolTip": "BlazedCosmos\\Migrations\\20250220073104_Second Try.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:10:14.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "20250220073104_Second Try.cs",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Migrations\\20250220073104_Second Try.cs",
               "RelativeDocumentMoniker": "BlazedCosmos\\Migrations\\20250220073104_Second Try.cs",
@@ -158,24 +271,22 @@
               "RelativeToolTip": "BlazedCosmos\\Migrations\\20250220073104_Second Try.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T07:31:05.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T07:31:05.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 34,
               "Title": "BlazedCosmos",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\BlazedCosmos.csproj",
               "RelativeDocumentMoniker": "BlazedCosmos\\BlazedCosmos.csproj",
               "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\BlazedCosmos.csproj",
               "RelativeToolTip": "BlazedCosmos\\BlazedCosmos.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-16T05:26:25.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T05:26:25.556Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 35,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "BlazedCosmos\\Properties\\launchSettings.json",
@@ -187,19 +298,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 16,
               "Title": "site.js",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "BlazedCosmos\\wwwroot\\js\\site.js",
               "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\js\\site.js",
               "RelativeToolTip": "BlazedCosmos\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-02-14T09:18:56.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 31,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "BlazedCosmos\\Models\\ErrorViewModel.cs",
@@ -211,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "AppSettings.cs",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Models\\AppSettings.cs",
               "RelativeDocumentMoniker": "BlazedCosmos\\Models\\AppSettings.cs",
@@ -223,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 33,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\appsettings.json",
               "RelativeDocumentMoniker": "BlazedCosmos\\appsettings.json",
@@ -235,82 +346,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 19,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BlazedCosmos\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "BlazedCosmos\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-13T18:11:47.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T18:11:47.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "BlazedCosmos\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Controllers\\HomeController.cs",
               "RelativeToolTip": "BlazedCosmos\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T18:04:38.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "site.css",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "BlazedCosmos\\wwwroot\\css\\site.css",
               "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\css\\site.css",
               "RelativeToolTip": "BlazedCosmos\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAABUAAAAAAAAAAIBJwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAiwJkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-02-13T18:04:15.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BlazedCosmos\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "BlazedCosmos\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwCAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-13T18:03:50.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T18:03:50.391Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Program.cs",
               "RelativeDocumentMoniker": "BlazedCosmos\\Program.cs",
               "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Program.cs",
               "RelativeToolTip": "BlazedCosmos\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwDAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T18:03:21.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 22,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "BlazedCosmos\\Data\\AppDbContext.cs",
               "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Data\\AppDbContext.cs",
               "RelativeToolTip": "BlazedCosmos\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T18:00:32.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 29,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "BlazedCosmos\\Views\\Shared\\_LoginPartial.cshtml",
@@ -318,12 +427,11 @@
               "RelativeToolTip": "BlazedCosmos\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-13T17:57:51.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T17:57:51.201Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 9,
               "Title": "Checkout.cshtml",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Views\\Order\\Checkout.cshtml",
               "RelativeDocumentMoniker": "BlazedCosmos\\Views\\Order\\Checkout.cshtml",
@@ -335,20 +443,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Cart.cshtml",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Views\\Order\\Cart.cshtml",
               "RelativeDocumentMoniker": "BlazedCosmos\\Views\\Order\\Cart.cshtml",
               "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Views\\Order\\Cart.cshtml",
               "RelativeToolTip": "BlazedCosmos\\Views\\Order\\Cart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-13T17:56:19.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 37,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "BlazedCosmos\\Views\\Account\\Register.cshtml",
@@ -360,7 +468,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 17,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "BlazedCosmos\\Views\\Account\\Login.cshtml",
@@ -372,19 +480,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 8,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Views\\Product\\Details.cshtml",
               "RelativeDocumentMoniker": "BlazedCosmos\\Views\\Product\\Details.cshtml",
               "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Views\\Product\\Details.cshtml",
               "RelativeToolTip": "BlazedCosmos\\Views\\Product\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-13T17:54:56.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "BlazedCosmos\\Views\\Product\\Index.cshtml",
@@ -396,55 +504,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "OrderService.cs",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Services\\OrderService.cs",
               "RelativeDocumentMoniker": "BlazedCosmos\\Services\\OrderService.cs",
               "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Services\\OrderService.cs",
               "RelativeToolTip": "BlazedCosmos\\Services\\OrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwEIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T17:46:59.843Z"
+              "WhenOpened": "2025-02-13T17:46:59.843Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "BlazedCosmos\\Services\\UserService.cs",
               "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Services\\UserService.cs",
               "RelativeToolTip": "BlazedCosmos\\Services\\UserService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA0wBIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T17:46:40.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "ProductService.cs",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "BlazedCosmos\\Services\\ProductService.cs",
               "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Services\\ProductService.cs",
               "RelativeToolTip": "BlazedCosmos\\Services\\ProductService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBIAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T17:46:21.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 1,
               "Title": "IOrderService.cs",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Services\\Interfaces\\IOrderService.cs",
               "RelativeDocumentMoniker": "BlazedCosmos\\Services\\Interfaces\\IOrderService.cs",
               "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Services\\Interfaces\\IOrderService.cs",
               "RelativeToolTip": "BlazedCosmos\\Services\\Interfaces\\IOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T17:45:55.24Z"
+              "WhenOpened": "2025-02-13T17:45:55.24Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 38,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Services\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "BlazedCosmos\\Services\\Interfaces\\IUserService.cs",
@@ -456,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 36,
               "Title": "IProductServices.cs",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Services\\Interfaces\\IProductServices.cs",
               "RelativeDocumentMoniker": "BlazedCosmos\\Services\\Interfaces\\IProductServices.cs",
@@ -468,7 +578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 30,
               "Title": "BlazedCosmos.csproj",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\BlazedCosmos.csproj",
               "RelativeDocumentMoniker": "BlazedCosmos\\BlazedCosmos.csproj",
@@ -476,12 +586,11 @@
               "RelativeToolTip": "BlazedCosmos\\BlazedCosmos.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-13T17:44:21.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T17:44:21.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 32,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Models\\User.cs",
               "RelativeDocumentMoniker": "BlazedCosmos\\Models\\User.cs",
@@ -493,56 +602,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 10,
               "Title": "CartItem.cs",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Models\\CartItem.cs",
               "RelativeDocumentMoniker": "BlazedCosmos\\Models\\CartItem.cs",
               "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Models\\CartItem.cs",
               "RelativeToolTip": "BlazedCosmos\\Models\\CartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T17:43:23.41Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Models\\Order.cs",
               "RelativeDocumentMoniker": "BlazedCosmos\\Models\\Order.cs",
               "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Models\\Order.cs",
               "RelativeToolTip": "BlazedCosmos\\Models\\Order.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T17:43:10.708Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Models\\Product.cs",
               "RelativeDocumentMoniker": "BlazedCosmos\\Models\\Product.cs",
               "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Models\\Product.cs",
               "RelativeToolTip": "BlazedCosmos\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T17:43:03.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T17:43:03.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 5,
               "Title": "OrderController.cs",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "BlazedCosmos\\Controllers\\OrderController.cs",
               "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Controllers\\OrderController.cs",
               "RelativeToolTip": "BlazedCosmos\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAIBJwDIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T17:42:43.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "BlazedCosmos\\Controllers\\AccountController.cs",
@@ -550,21 +658,19 @@
               "RelativeToolTip": "BlazedCosmos\\Controllers\\AccountController.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwBYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T17:42:24.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T17:42:24.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 14,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "BlazedCosmos\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\Controllers\\ProductController.cs",
               "RelativeToolTip": "BlazedCosmos\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T17:42:09.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T17:42:09.33Z"
             }
           ]
         }

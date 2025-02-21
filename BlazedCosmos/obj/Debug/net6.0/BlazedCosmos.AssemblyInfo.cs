@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazedCosmos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99698d875d298f0b5f5663935bd86acf9aa2297d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed1da428ee458d2e1983c3d4dba769b92f5bbce5")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazedCosmos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazedCosmos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

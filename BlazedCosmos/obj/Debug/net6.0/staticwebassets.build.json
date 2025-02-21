@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+7+C+0FlCFBENB14rTT6vrkQw6UXauMPUSCJKjU+pJs=",
+  "Hash": "Wd+Wj0jFB/T0sJFeWLueytPuQ4/O8Q7aF3o9+uvZw7k=",
   "Source": "BlazedCosmos",
   "BasePath": "_content/BlazedCosmos",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xp2kxhxjmb",
-      "Integrity": "O0C9XgTM18XlvBAS7LaBHXvguPuH6nb0DEa5RK2sqjE=",
+      "Fingerprint": "2sy1lqr5d5",
+      "Integrity": "rszwwfZU5rvEHIy2PmqHKpH/ssIK2/feW0OB4X5Ncu8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -101,6 +101,174 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\images\\1.jpg",
+      "SourceId": "BlazedCosmos",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\",
+      "BasePath": "_content/BlazedCosmos",
+      "RelativePath": "images/1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3cj3t7ttpg",
+      "Integrity": "XbKAFGB5SYjOujAEZu0IXnm0csFyWdaM5itgz/UtDtA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1.jpg"
+    },
+    {
+      "Identity": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\images\\2.jpg",
+      "SourceId": "BlazedCosmos",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\",
+      "BasePath": "_content/BlazedCosmos",
+      "RelativePath": "images/2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cghft2bljn",
+      "Integrity": "5ITYWb+XVVSI3AgpPPwCJVdYGEPTe0UQSvb3g7UAu5I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2.jpg"
+    },
+    {
+      "Identity": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\images\\3.jpg",
+      "SourceId": "BlazedCosmos",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\",
+      "BasePath": "_content/BlazedCosmos",
+      "RelativePath": "images/3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4kpzsmgy8v",
+      "Integrity": "3F81u7lnZROZGuhsLgg2wg1TAoJaibEGA+ApSl73EBU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\3.jpg"
+    },
+    {
+      "Identity": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\images\\4.jpg",
+      "SourceId": "BlazedCosmos",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\",
+      "BasePath": "_content/BlazedCosmos",
+      "RelativePath": "images/4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8x9bz14h3f",
+      "Integrity": "/C0xW7mWpL5Vys+rMPGk6RKbBPtIHueq0FSsrqu6Jqo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\4.jpg"
+    },
+    {
+      "Identity": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\images\\5.jpg",
+      "SourceId": "BlazedCosmos",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\",
+      "BasePath": "_content/BlazedCosmos",
+      "RelativePath": "images/5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t0z1c3rqx6",
+      "Integrity": "jQ+Hv9o+RHZBwDlAwHLXFa9K76PwSSmo+Lyh8ms8H1E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5.jpg"
+    },
+    {
+      "Identity": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\images\\6.jpg",
+      "SourceId": "BlazedCosmos",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\",
+      "BasePath": "_content/BlazedCosmos",
+      "RelativePath": "images/6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i6wpsgtyqd",
+      "Integrity": "1mSOeJFe7VSwbrL2Hvkp815IFGdm9xiceygpjw830H8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\6.jpg"
+    },
+    {
+      "Identity": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\images\\7.jpg",
+      "SourceId": "BlazedCosmos",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\",
+      "BasePath": "_content/BlazedCosmos",
+      "RelativePath": "images/7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m002e5y1ps",
+      "Integrity": "ajFL+WHfth2ORywFj/t2XOTKMmzkakl38V83XZU8M5k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\7.jpg"
+    },
+    {
+      "Identity": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\images\\8.jpg",
+      "SourceId": "BlazedCosmos",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\",
+      "BasePath": "_content/BlazedCosmos",
+      "RelativePath": "images/8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vf7z2ouw55",
+      "Integrity": "a5IAFXXJNFBOvt1E0KSe0QbBXSpV892IrZX/FpAUgB4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\8.jpg"
+    },
+    {
       "Identity": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\js\\site.js",
       "SourceId": "BlazedCosmos",
       "SourceType": "Discovered",
@@ -115,8 +283,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xtxxf3hu2r",
-      "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
+      "Fingerprint": "lzjkxurq38",
+      "Integrity": "McunyxRXrmc4sT3IYa1SGAbKBlEkjnB1gnfPxTSAgEo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -1485,6 +1653,51 @@
       ]
     },
     {
+      "Route": "css/site.2sy1lqr5d5.css",
+      "AssetFile": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4446"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rszwwfZU5rvEHIy2PmqHKpH/ssIK2/feW0OB4X5Ncu8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 07:17:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2sy1lqr5d5"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rszwwfZU5rvEHIy2PmqHKpH/ssIK2/feW0OB4X5Ncu8="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1495,7 +1708,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "842"
+          "Value": "4446"
         },
         {
           "Name": "Content-Type",
@@ -1503,11 +1716,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"O0C9XgTM18XlvBAS7LaBHXvguPuH6nb0DEa5RK2sqjE=\""
+          "Value": "\"rszwwfZU5rvEHIy2PmqHKpH/ssIK2/feW0OB4X5Ncu8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 18:04:56 GMT"
+          "Value": "Fri, 21 Feb 2025 07:17:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1517,52 +1730,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-O0C9XgTM18XlvBAS7LaBHXvguPuH6nb0DEa5RK2sqjE="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.xp2kxhxjmb.css",
-      "AssetFile": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "842"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"O0C9XgTM18XlvBAS7LaBHXvguPuH6nb0DEa5RK2sqjE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 18:04:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xp2kxhxjmb"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-O0C9XgTM18XlvBAS7LaBHXvguPuH6nb0DEa5RK2sqjE="
+          "Value": "sha256-rszwwfZU5rvEHIy2PmqHKpH/ssIK2/feW0OB4X5Ncu8="
         }
       ]
     },
@@ -1649,6 +1817,662 @@
       ]
     },
     {
+      "Route": "images/1.3cj3t7ttpg.jpg",
+      "AssetFile": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\images\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122821"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XbKAFGB5SYjOujAEZu0IXnm0csFyWdaM5itgz/UtDtA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:27:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3cj3t7ttpg"
+        },
+        {
+          "Name": "label",
+          "Value": "images/1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XbKAFGB5SYjOujAEZu0IXnm0csFyWdaM5itgz/UtDtA="
+        }
+      ]
+    },
+    {
+      "Route": "images/1.jpg",
+      "AssetFile": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\images\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122821"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XbKAFGB5SYjOujAEZu0IXnm0csFyWdaM5itgz/UtDtA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:27:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XbKAFGB5SYjOujAEZu0IXnm0csFyWdaM5itgz/UtDtA="
+        }
+      ]
+    },
+    {
+      "Route": "images/2.cghft2bljn.jpg",
+      "AssetFile": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\images\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5ITYWb+XVVSI3AgpPPwCJVdYGEPTe0UQSvb3g7UAu5I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:28:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cghft2bljn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5ITYWb+XVVSI3AgpPPwCJVdYGEPTe0UQSvb3g7UAu5I="
+        }
+      ]
+    },
+    {
+      "Route": "images/2.jpg",
+      "AssetFile": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\images\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5ITYWb+XVVSI3AgpPPwCJVdYGEPTe0UQSvb3g7UAu5I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:28:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5ITYWb+XVVSI3AgpPPwCJVdYGEPTe0UQSvb3g7UAu5I="
+        }
+      ]
+    },
+    {
+      "Route": "images/3.4kpzsmgy8v.jpg",
+      "AssetFile": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\images\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3F81u7lnZROZGuhsLgg2wg1TAoJaibEGA+ApSl73EBU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:30:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4kpzsmgy8v"
+        },
+        {
+          "Name": "label",
+          "Value": "images/3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3F81u7lnZROZGuhsLgg2wg1TAoJaibEGA+ApSl73EBU="
+        }
+      ]
+    },
+    {
+      "Route": "images/3.jpg",
+      "AssetFile": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\images\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3F81u7lnZROZGuhsLgg2wg1TAoJaibEGA+ApSl73EBU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:30:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3F81u7lnZROZGuhsLgg2wg1TAoJaibEGA+ApSl73EBU="
+        }
+      ]
+    },
+    {
+      "Route": "images/4.8x9bz14h3f.jpg",
+      "AssetFile": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\images\\4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "245261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/C0xW7mWpL5Vys+rMPGk6RKbBPtIHueq0FSsrqu6Jqo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:30:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8x9bz14h3f"
+        },
+        {
+          "Name": "label",
+          "Value": "images/4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/C0xW7mWpL5Vys+rMPGk6RKbBPtIHueq0FSsrqu6Jqo="
+        }
+      ]
+    },
+    {
+      "Route": "images/4.jpg",
+      "AssetFile": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\images\\4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "245261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/C0xW7mWpL5Vys+rMPGk6RKbBPtIHueq0FSsrqu6Jqo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:30:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/C0xW7mWpL5Vys+rMPGk6RKbBPtIHueq0FSsrqu6Jqo="
+        }
+      ]
+    },
+    {
+      "Route": "images/5.jpg",
+      "AssetFile": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\images\\5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "145902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jQ+Hv9o+RHZBwDlAwHLXFa9K76PwSSmo+Lyh8ms8H1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:30:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jQ+Hv9o+RHZBwDlAwHLXFa9K76PwSSmo+Lyh8ms8H1E="
+        }
+      ]
+    },
+    {
+      "Route": "images/5.t0z1c3rqx6.jpg",
+      "AssetFile": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\images\\5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "145902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jQ+Hv9o+RHZBwDlAwHLXFa9K76PwSSmo+Lyh8ms8H1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:30:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t0z1c3rqx6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jQ+Hv9o+RHZBwDlAwHLXFa9K76PwSSmo+Lyh8ms8H1E="
+        }
+      ]
+    },
+    {
+      "Route": "images/6.i6wpsgtyqd.jpg",
+      "AssetFile": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\images\\6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106653"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1mSOeJFe7VSwbrL2Hvkp815IFGdm9xiceygpjw830H8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:31:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i6wpsgtyqd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1mSOeJFe7VSwbrL2Hvkp815IFGdm9xiceygpjw830H8="
+        }
+      ]
+    },
+    {
+      "Route": "images/6.jpg",
+      "AssetFile": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\images\\6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106653"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1mSOeJFe7VSwbrL2Hvkp815IFGdm9xiceygpjw830H8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:31:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1mSOeJFe7VSwbrL2Hvkp815IFGdm9xiceygpjw830H8="
+        }
+      ]
+    },
+    {
+      "Route": "images/7.jpg",
+      "AssetFile": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\images\\7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ajFL+WHfth2ORywFj/t2XOTKMmzkakl38V83XZU8M5k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:31:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ajFL+WHfth2ORywFj/t2XOTKMmzkakl38V83XZU8M5k="
+        }
+      ]
+    },
+    {
+      "Route": "images/7.m002e5y1ps.jpg",
+      "AssetFile": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\images\\7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ajFL+WHfth2ORywFj/t2XOTKMmzkakl38V83XZU8M5k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:31:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m002e5y1ps"
+        },
+        {
+          "Name": "label",
+          "Value": "images/7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ajFL+WHfth2ORywFj/t2XOTKMmzkakl38V83XZU8M5k="
+        }
+      ]
+    },
+    {
+      "Route": "images/8.jpg",
+      "AssetFile": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\images\\8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23334"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a5IAFXXJNFBOvt1E0KSe0QbBXSpV892IrZX/FpAUgB4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:33:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a5IAFXXJNFBOvt1E0KSe0QbBXSpV892IrZX/FpAUgB4="
+        }
+      ]
+    },
+    {
+      "Route": "images/8.vf7z2ouw55.jpg",
+      "AssetFile": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\images\\8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23334"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a5IAFXXJNFBOvt1E0KSe0QbBXSpV892IrZX/FpAUgB4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:33:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vf7z2ouw55"
+        },
+        {
+          "Name": "label",
+          "Value": "images/8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a5IAFXXJNFBOvt1E0KSe0QbBXSpV892IrZX/FpAUgB4="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
       "AssetFile": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\js\\site.js",
       "Selectors": [],
@@ -1659,7 +2483,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "505"
         },
         {
           "Name": "Content-Type",
@@ -1667,11 +2491,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"McunyxRXrmc4sT3IYa1SGAbKBlEkjnB1gnfPxTSAgEo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:40:52 GMT"
+          "Value": "Fri, 21 Feb 2025 08:17:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1681,12 +2505,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-McunyxRXrmc4sT3IYa1SGAbKBlEkjnB1gnfPxTSAgEo="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js",
+      "Route": "js/site.lzjkxurq38.js",
       "AssetFile": "D:\\.net\\.net project\\.NET\\BlazedCosmos\\BlazedCosmos\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1696,7 +2520,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "505"
         },
         {
           "Name": "Content-Type",
@@ -1704,11 +2528,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"McunyxRXrmc4sT3IYa1SGAbKBlEkjnB1gnfPxTSAgEo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:40:52 GMT"
+          "Value": "Fri, 21 Feb 2025 08:17:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1718,7 +2542,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "lzjkxurq38"
         },
         {
           "Name": "label",
@@ -1726,7 +2550,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-McunyxRXrmc4sT3IYa1SGAbKBlEkjnB1gnfPxTSAgEo="
         }
       ]
     },

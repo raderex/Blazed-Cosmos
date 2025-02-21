@@ -42,3 +42,4 @@ D:\.net\.net project\.NET\BlazedCosmos\BlazedCosmos\obj\Debug\net6.0\refint\Blaz
 D:\.net\.net project\.NET\BlazedCosmos\BlazedCosmos\obj\Debug\net6.0\BlazedCosmos.pdb
 D:\.net\.net project\.NET\BlazedCosmos\BlazedCosmos\obj\Debug\net6.0\BlazedCosmos.genruntimeconfig.cache
 D:\.net\.net project\.NET\BlazedCosmos\BlazedCosmos\obj\Debug\net6.0\ref\BlazedCosmos.dll
+D:\.net\.net project\.NET\BlazedCosmos\BlazedCosmos\bin\Debug\net6.0\Newtonsoft.Json.dll
